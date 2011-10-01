@@ -1,0 +1,11 @@
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\bin\Debug\MySql.Data.dll
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.newUser.resources
+C:\Users\Fert\Documents\Visual Studio 2008\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
